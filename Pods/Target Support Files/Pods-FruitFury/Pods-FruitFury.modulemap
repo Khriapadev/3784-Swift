@@ -1,0 +1,6 @@
+framework module Pods_FruitFury {
+  umbrella header "Pods-FruitFury-umbrella.h"
+
+  export *
+  module * { export * }
+}
